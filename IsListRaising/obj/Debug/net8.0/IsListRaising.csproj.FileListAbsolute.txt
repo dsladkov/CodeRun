@@ -1,0 +1,14 @@
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/bin/Debug/net8.0/IsListRaising
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/bin/Debug/net8.0/IsListRaising.deps.json
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/bin/Debug/net8.0/IsListRaising.runtimeconfig.json
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/bin/Debug/net8.0/IsListRaising.dll
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/bin/Debug/net8.0/IsListRaising.pdb
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/IsListRaising.GeneratedMSBuildEditorConfig.editorconfig
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/IsListRaising.AssemblyInfoInputs.cache
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/IsListRaising.AssemblyInfo.cs
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/IsListRaising.csproj.CoreCompileInputs.cache
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/IsListRaising.dll
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/refint/IsListRaising.dll
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/IsListRaising.pdb
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/IsListRaising.genruntimeconfig.cache
+/home/mitya/Documents/DEV/PROJECTS/C#/CodeRun/IsListRaising/obj/Debug/net8.0/ref/IsListRaising.dll
